@@ -1,0 +1,2 @@
+Python course
+Deep Learning course{'python': 1, 'course': 2, 'learning': 1, 'deep': 1}
